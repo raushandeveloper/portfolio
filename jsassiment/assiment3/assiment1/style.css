@@ -1,0 +1,50 @@
+.main{
+    height: 500px;
+    width: 500px;
+    background-color:pink;
+    /* display: flex; */
+    margin-left:33%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+h2{
+   position:relative;
+   margin-left: 36%;
+   top: 28px;
+}
+
+h3{
+   position:relative;
+   margin-left: 36%;
+   top: 16%;
+}
+
+input{
+    position: relative;
+    height: 2.5rem;
+    width: 8.5rem;
+    top: 15%;
+    left: 37%;
+    background-color:#e4c872;
+}
+
+button{
+    position: relative;
+    top: 30%;
+    height: 2rem;
+    width: 7.5rem;
+    left: 10%;
+    color: rgb(202, 116, 226);
+    background-color: #41f2ae;
+}
+
+button:hover{
+    background-color: #22ac15;
+}
+
+.result{
+    position: relative;
+    top: 50%;
+    left: 22%;
+}
